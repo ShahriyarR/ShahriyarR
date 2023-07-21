@@ -7,6 +7,7 @@
   * [Linkedin](https://www.linkedin.com/in/shahriyar-rzayev/)
 - 💬 Ask me about Python
 - Leading [AzePUG](https://www.azepug.az/)
+- By me a coffee [Kofe.al](https://kofe.al/shako)
 
 - Current active projects:
   * https://github.com/ShahriyarR/py-read-once
