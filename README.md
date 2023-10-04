@@ -13,8 +13,11 @@
   * https://github.com/ShahriyarR/py-read-once
   * https://github.com/ShahriyarR/one-time-secret-share
     
-- ⚡ PyCON Talks:
-  * [Building Hexagonal Python Services](https://www.youtube.com/watch?v=qCw0ySOeekA)
+- ⚡ Conferences:
+  * [PyCON DE 2023 - Building Hexagonal Python Services](https://www.youtube.com/watch?v=qCw0ySOeekA)
+  * [PyBerlin meetup](https://tech.deliveryhero.com/event/9699/)
+  * [PyCON Portugal 2023(no recording)](https://pretalx.evolutio.pt/pycon-pt-2023/talk/LA7CBV/)
+  * [PyCON LT 2023(no recording)](https://pretalx.com/pycon-lt-2023/talk/P9ZKQQ/)
 
 <!--
 **ShahriyarR/ShahriyarR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
