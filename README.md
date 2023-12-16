@@ -15,9 +15,10 @@
     
 - ⚡ Conferences:
   * [PyCON DE 2023 - Building Hexagonal Python Services](https://www.youtube.com/watch?v=qCw0ySOeekA)
-  * [PyBerlin meetup](https://tech.deliveryhero.com/event/9699/)
+  * [PyBerlin April Meetup](https://tech.deliveryhero.com/event/9699/)
   * [PyCON Portugal 2023(no recording)](https://pretalx.evolutio.pt/pycon-pt-2023/talk/LA7CBV/)
   * [PyCON LT 2023(no recording)](https://pretalx.com/pycon-lt-2023/talk/P9ZKQQ/)
+  * [PyBerlin 42 - 🍁🍁 Autumn event 🍁🍁](https://www.meetup.com/pyberlin/events/296945261/)
 
 <!--
 **ShahriyarR/ShahriyarR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
