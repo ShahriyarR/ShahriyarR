@@ -10,8 +10,7 @@
 - My SuperPeer services [Superpeer](https://superpeer.com/shako)
 
 - Current active projects:
-  * https://github.com/ShahriyarR/py-read-once
-  * https://github.com/ShahriyarR/one-time-secret-share
+  * [EpicLaunchX](https://beta.epiclaunchx.io/)
     
 - ⚡ Conferences:
   * [PyCON DE 2023 - Building Hexagonal Python Services](https://www.youtube.com/watch?v=qCw0ySOeekA)
