@@ -21,6 +21,7 @@
   * [FlaskCon 2023](https://www.youtube.com/watch?v=wrtCo2fBoD0)
   * [PyCON SK 2024 (no recording)](https://2024.pycon.sk/en/speakers/Shahriyar%20Rzayev.html)
   * [PyCON DE 2024](https://www.youtube.com/watch?v=wzpFKWTa0kM)
+  * [Devfest Berlin 2024(no recording)](https://pretalx.com/devfest-berlin-2024/talk/738DRH/)
 
 <!--
 **ShahriyarR/ShahriyarR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
