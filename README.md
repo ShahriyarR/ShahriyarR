@@ -1,7 +1,9 @@
 ### Herzlich Willkommen 👋
 
 - 🔭 I’m currently working at [NordVPN](https://nordvpn.com/), my current location is Berlin.
-- 🌱 I’m currently learning CyberSecurity, Software Architecture, Secure by Design principles, etc...
+- 🌱 I’m currently learning CyberSecurity, Software Architecture, and System Design:
+     * Check my [Leetcode](https://leetcode.com/u/srzayev/) profile.
+     * I have created a repository for documenting my progress: [Interview Preparation](https://github.com/ShahriyarR/interview-prep)
 - 📫 How to reach me:
   * [Twitter](https://twitter.com/ShahriyarRzayev)
   * [Linkedin](https://www.linkedin.com/in/shahriyar-rzayev/)
