@@ -1,18 +1,12 @@
 ### Herzlich Willkommen 👋
 
 - 🔭 I’m currently working at [NordVPN](https://nordvpn.com/), my current location is Berlin.
-- 🌱 I’m currently learning CyberSecurity, Software Architecture, and System Design:
-     * Check my [Leetcode](https://leetcode.com/u/srzayev/) profile.
-     * I have created a repository for documenting my progress: [Interview Preparation](https://github.com/ShahriyarR/interview-prep)
+- 🌱 Active side project is: [EpicLaunchX](https://beta.epiclaunchx.io) - Gamified GitHub-integrated AI-powered learning platform for teaching Software Engineering Best Practices.
 - 📫 How to reach me:
   * [Twitter](https://twitter.com/ShahriyarRzayev)
   * [Linkedin](https://www.linkedin.com/in/shahriyar-rzayev/)
 - 💬 Ask me about Python
-- Leading [AzePUG](https://www.azepug.az/)
-- My SuperPeer services [Superpeer](https://superpeer.com/shako)
-
-- Current active projects:
-  * [EpicLaunchX](https://beta.epiclaunchx.io/)
+- Leading [AzePUG](https://t.me/azepug) - predominant language is Azerbaijani.
     
 - ⚡ Conferences:
   * [PyCON DE 2023 - Building Hexagonal Python Services](https://www.youtube.com/watch?v=qCw0ySOeekA)
