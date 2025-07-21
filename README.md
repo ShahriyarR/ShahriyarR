@@ -1,7 +1,7 @@
 ### Herzlich Willkommen 👋
 
 - 🔭 I’m currently working at [NordVPN](https://nordvpn.com/), my current location is Berlin.
-- 🌱 Active side project is: [EpicLaunchX](https://beta.epiclaunchx.io) - Gamified GitHub-integrated AI-powered learning platform for teaching Software Engineering Best Practices.
+- 🌱 Check my active side project: [EpicLaunchX](https://beta.epiclaunchx.io) - Gamified GitHub-integrated AI-powered learning platform for teaching Software Engineering Best Practices.
 - 📫 How to reach me:
   * [Twitter](https://twitter.com/ShahriyarRzayev)
   * [Linkedin](https://www.linkedin.com/in/shahriyar-rzayev/)
