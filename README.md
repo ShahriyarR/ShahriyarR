@@ -1,7 +1,7 @@
 ### Herzlich Willkommen 👋
 
 - 🔭 I’m currently working at [NordVPN](https://nordvpn.com/), my current location is Berlin.
-- 🌱 Check my active side project: [EpicLaunchX](https://beta.epiclaunchx.io) - Gamified GitHub-integrated AI-powered learning platform for teaching Software Engineering Best Practices.
+- 🌱 Builder, Indie Hacker.
 - 📫 How to reach me:
   * [Twitter](https://twitter.com/ShahriyarRzayev)
   * [Linkedin](https://www.linkedin.com/in/shahriyar-rzayev/)
@@ -18,6 +18,8 @@
   * [PyCON SK 2024 (no recording)](https://2024.pycon.sk/en/speakers/Shahriyar%20Rzayev.html)
   * [PyCON DE 2024](https://www.youtube.com/watch?v=wzpFKWTa0kM)
   * [Devfest Berlin 2024(no recording)](https://pretalx.com/devfest-berlin-2024/talk/738DRH/)
+  * [PyBerlin May 2025 - Implementing Distributed Systems in Python](https://www.meetup.com/pyberlin/events/307062313/)
+  * [PyCon Wroclaw 2025 - Building Maintainable AI Agents with Django and Layered Architecture](https://pyconwroclaw.com/schedule)
 
 <!--
 **ShahriyarR/ShahriyarR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
