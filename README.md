@@ -20,6 +20,10 @@
   * [Devfest Berlin 2024(no recording)](https://pretalx.com/devfest-berlin-2024/talk/738DRH/)
   * [PyBerlin May 2025 - Implementing Distributed Systems in Python](https://www.meetup.com/pyberlin/events/307062313/)
   * [PyCon Wroclaw 2025 - Building Maintainable AI Agents with Django and Layered Architecture](https://pyconwroclaw.com/schedule)
+ 
+
+- 🧠 Organizer of the following Events:
+  * [Zero To Agent - part of global Vercel event](https://luma.com/yjvfhm8f)
 
 <!--
 **ShahriyarR/ShahriyarR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
