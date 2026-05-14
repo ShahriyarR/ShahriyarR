@@ -20,6 +20,7 @@
   * [Devfest Berlin 2024(no recording)](https://pretalx.com/devfest-berlin-2024/talk/738DRH/)
   * [PyBerlin May 2025 - Implementing Distributed Systems in Python](https://www.meetup.com/pyberlin/events/307062313/)
   * [PyCon Wroclaw 2025 - Building Maintainable AI Agents with Django and Layered Architecture](https://pyconwroclaw.com/schedule)
+  * [PyBerlin 57 - January event - Code review agents battle](https://www.meetup.com/pyberlin/events/312505233/)
  
 
 - 🧠 Organizer of the following Events:
